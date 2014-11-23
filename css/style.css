@@ -1,0 +1,12 @@
+/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+/* STYLES */
+.svgWrapper {width:300px;margin:0 auto;}
+#svgCanvas{width:100%;min-height:300px;}
+#fromIll {width:100%;}
+.headers {text-align:center;font-weight:bold;font-size:21px;margin-bottom:12px;margin-top:12px;}
+
+/* SVG Styling */
+#Grey_Outer_Circle:hover, #Black_Circle:hover, #Grey_Inner_Circle:hover, #Grey_Bottom_Left:hover, #Grey_Top_Right:hover, #Blue_Bottom_Right:hover, #Blue_Top_Left:hover, #B_Lower_Inner:hover, #B_Top_Inner:hover, #Cross_Bottom_Right:hover, #Cross_Left:hover, #Cross_Top_Top:hover {fill: yellow;cursor:pointer;}
+
